@@ -1,0 +1,38 @@
+<annotation>
+	<folder>labelImages</folder>
+	<filename>12.jpg</filename>
+	<path>D:\Jaar 3\IROB\AI Model\labelImages\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooibos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>70</ymin>
+			<xmax>443</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tropisch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>263</ymin>
+			<xmax>715</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>
